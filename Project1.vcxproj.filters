@@ -16,17 +16,14 @@
     <Filter Include="소스 파일\day2">
       <UniqueIdentifier>{ed45564c-edb5-4f9a-82e1-a2027c7f8487}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day3">
+      <UniqueIdentifier>{2e7a2f23-18b0-4af7-9115-9a178ba56262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day1">
+      <UniqueIdentifier>{c1c1977e-3313-4ce7-9ad5-37df28403819}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="기본구조.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="과제1 알파벳 피라미.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="변수.c">
       <Filter>소스 파일\day2</Filter>
     </ClCompile>
@@ -44,6 +41,30 @@
     </ClCompile>
     <ClCompile Include="상수.c">
       <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="unsigend.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="형식문자와숫자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="기본구조.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="day1.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="과제1 알파벳 피라미.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="123.c">
+      <Filter>소스 파일\day3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
