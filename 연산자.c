@@ -85,6 +85,6 @@ int main(void)
 	num6 = 6;
 	result2 = num3 + num4 * num5 + num6;
 	printf("%d+%d*%d+%d = %d", num3, num4, num5, num6, result2);
-	//곱셈과 나눗셈중 먼저 (수식중 앞에있는거) 나오는거 뒤에 더하기 빼기 진행 
+	//곱셈과 나눗셈중 먼저 (수식중 앞에있는거) 나오는거 뒤에 더하기 빼기 진행 x
 	return 0;
 }
